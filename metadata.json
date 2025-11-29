@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LendFlow AI",
+  "description": "Next-generation loan application portal featuring AI-powered document analysis, instant eligibility checks, and a smart financial assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
